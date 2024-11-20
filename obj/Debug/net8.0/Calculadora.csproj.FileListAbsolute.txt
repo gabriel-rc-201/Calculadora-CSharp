@@ -1,0 +1,14 @@
+/home/gabriel_rc/Documentos/projetos/Calculadora/bin/Debug/net8.0/Calculadora
+/home/gabriel_rc/Documentos/projetos/Calculadora/bin/Debug/net8.0/Calculadora.deps.json
+/home/gabriel_rc/Documentos/projetos/Calculadora/bin/Debug/net8.0/Calculadora.runtimeconfig.json
+/home/gabriel_rc/Documentos/projetos/Calculadora/bin/Debug/net8.0/Calculadora.dll
+/home/gabriel_rc/Documentos/projetos/Calculadora/bin/Debug/net8.0/Calculadora.pdb
+/home/gabriel_rc/Documentos/projetos/Calculadora/obj/Debug/net8.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel_rc/Documentos/projetos/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfoInputs.cache
+/home/gabriel_rc/Documentos/projetos/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfo.cs
+/home/gabriel_rc/Documentos/projetos/Calculadora/obj/Debug/net8.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/gabriel_rc/Documentos/projetos/Calculadora/obj/Debug/net8.0/Calculadora.dll
+/home/gabriel_rc/Documentos/projetos/Calculadora/obj/Debug/net8.0/refint/Calculadora.dll
+/home/gabriel_rc/Documentos/projetos/Calculadora/obj/Debug/net8.0/Calculadora.pdb
+/home/gabriel_rc/Documentos/projetos/Calculadora/obj/Debug/net8.0/Calculadora.genruntimeconfig.cache
+/home/gabriel_rc/Documentos/projetos/Calculadora/obj/Debug/net8.0/ref/Calculadora.dll
